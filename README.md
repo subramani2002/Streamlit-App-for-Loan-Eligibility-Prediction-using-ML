@@ -47,4 +47,4 @@ The `main.py` script uses Streamlit to create a web interface where users can en
 **Demo**
 ![Screenshot 2024-04-14 195454](https://github.com/subramani2002/Streamlit-App-for-Loan-Eligibility-Prediction-using-ML/assets/67220838/d29f6622-a3d7-4c1f-b5c1-b4af1f4efd6a)
 ![Screenshot 2024-04-14 195519](https://github.com/subramani2002/Streamlit-App-for-Loan-Eligibility-Prediction-using-ML/assets/67220838/de05cb80-a534-445b-89d7-08b6fe2c1df5)
-![Screenshot 2024-04-14 195539](https://github.com/subramani2002/Streamlit-App-for-Loan-Eligibility-Prediction-using-ML/assets/67220838/26fe72c7-294b-4882-91f4-e3478cd39ad7)
+![Screenshot 2024-04-14 195519](https://github.com/subramani2002/Streamlit-App-for-Loan-Eligibility-Prediction-using-ML/assets/67220838/0b0fe8aa-8d43-42cc-aa3a-b5c9b59d1716)
